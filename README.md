@@ -7,23 +7,23 @@ Imitación de la web de Pixar como práctica para el curso de desarrolladora web
 'Tiempo de programación ⏰'
 Este clon ha sido programado en unas 9 horas a lo largo de varios días.
 
-Construido con 🛠️
+'Construido con 🛠️'
 
 [HTML5]
 [CSS]
 [TS]
 [JS]
 
-Desarrollado con 🛠️
+'Desarrollado con 🛠️'
 
 [Visual Studio Code]
 
-Autor ✒️
+'Autora ✒️'
 
 Mariace Romestant
 
 [Github] (https://github.com/macromestant)
 [LinkedIn] ()
 
-Licencia 📄
+'Licencia 📄'
 MIT License
